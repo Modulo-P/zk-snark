@@ -15,7 +15,7 @@ Our project attempts to:
 - Run the verification part of the Groth16 protocol in a Hydra head
 - Give proof-of-concept examples illustrating some practical applications
 
-It should be noticed that the development shown in this repository will be initially baseed on progress achieved in our participation in the Emurgo Build 2013 Hackathon.  (Most of the code of that project is currrently mantained private and will be released upon completion of the arbiter's evaluation.)
+It should be noted that the development shown in this repository will initially be baseed on progress achieved in our participation in the *Emurgo Build 2013 Hackathon*.  (Most of the code of that project is currrently mantained private and will be released here upon completion of the evaluation phase.)
 
 ## Miller's algorithm
 
